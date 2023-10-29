@@ -1,4 +1,4 @@
-# MyMap App
+# My Map App
 
 MyMap is an iOS application developed in Objective-C that provides geolocation services. The app allows users to explore maps, view their current location, and add custom annotations. This README.md file provides an overview of the project structure, features, code highlights, and potential future development directions.
 
